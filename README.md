@@ -31,7 +31,7 @@ https://www.loom.com/share/d426f256fb7a4897aa625fba7d9d3565?sid=8b870bb0-450c-40
 
 ## Notes
 
-The API that I use fortunately was very straight forward and super easy to use. The part that I think it's hard is the statistic part as I have to come up with ideas for it and think of how to execute it.
+The API that I used, fortunately, was very straight forward and super easy to use. The part that I think it's hard is the statistic part as I have to come up with ideas for it and think of how to execute it.
 
 ## License
 
